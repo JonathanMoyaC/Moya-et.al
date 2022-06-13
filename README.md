@@ -4,7 +4,6 @@ Length-of-stay prediction and severity classification for patients of emergency 
 the patient’s post-care destination and by up to five percentage points for the prediction of the length of
 stay in the hospital. In practical terms, if an emergency unit were to make use of these techniques, it could anticipate a patient’s need for hospitalization at the earliest stage of the care process. 
 
-Conclusion
 After the experiments performed and the result obtained, we can conclude that the contribution of including free-text as training data for prediction and classification models, when available, is an extra effort considering classical ML methodologies. However, when datasets present missing or minor information, each valid data becomes crucial for obtaining good quality predictions and classifications. In the experiments developed, the vectorized text proved to contribute enough information for the prediction, improving the results or even being sufficient, on its own, to determine the severity category of patients at an acceptable level.
 The results can certainly be better. There were free text variables in the original data set, which we did not consider in the research because they were very technical text, had acronyms, or were incomplete. The use of such sets would have been a significant contribution considering how valuable the event description set became, which, although more general and less technical, contributed significantly to improving the performance of the trained ML models.
 
