@@ -1,0 +1,14 @@
+A continuación, se lista una serie de paquetes necesarios para ejecutar los códigos adjuntos a este repostorio.
+
+inbalanced learn (para valancear las clases de la variable target)
+Instalación:
+pip install -U imbalanced-learn
+conda install -c conda-forge imbalanced-learn
+
+Eli5 (para aplicar permitation importance a los resultados de los mdelos planteados)
+Instalación:
+pip install eli5
+
+pdp box (para graficar los resultados de los SHAP Values)
+Instalación:
+conda install -c conda-forge pdpbox
