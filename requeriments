@@ -1,5 +1,13 @@
 A continuación, se lista una serie de paquetes necesarios para ejecutar los códigos adjuntos a este repostorio.
 
+Jupyther notebook para correr los scripts ofrecidos en este repositorio
+Instalación:
+pip install jupyterlab
+
+Seasborn para la ejecución de scripts de visualización de datos
+Instalación:
+pip install seaborn
+
 inbalanced learn (para valancear las clases de la variable target)
 Instalación:
 pip install -U imbalanced-learn
