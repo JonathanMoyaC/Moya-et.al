@@ -8,12 +8,12 @@ Seasborn para la ejecución de scripts de visualización de datos
 Instalación:
 pip install seaborn
 
-inbalanced learn (para valancear las clases de la variable target)
+inbalanced learn (para balancear las clases de la variable target)
 Instalación:
 pip install -U imbalanced-learn
 conda install -c conda-forge imbalanced-learn
 
-Eli5 (para aplicar permitation importance a los resultados de los mdelos planteados)
+Eli5 (para aplicar Permutation Importance a los resultados de los modelos planteados)
 Instalación:
 pip install eli5
 
