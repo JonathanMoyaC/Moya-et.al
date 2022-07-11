@@ -2,21 +2,21 @@ A continuación, se lista una serie de paquetes necesarios para ejecutar los có
 
 Jupyther notebook para correr los scripts ofrecidos en este repositorio (ver 3.2.1)
 Instalación:
-pip install jupyterlab
+pip install jupyterlab=3.2.1
 
 Seasborn para la ejecución de scripts de visualización de datos (ver 0.11.2)
 Instalación:
-pip install seaborn
+pip install seaborn=0.11.2
 
 inbalanced learn (para balancear las clases de la variable target) (ver 0.7.0)
 Instalación:
 pip install -U imbalanced-learn
-conda install -c conda-forge imbalanced-learn
+conda install -c conda-forge imbalanced-learn=0.7.0
 
 Eli5 (para aplicar Permutation Importance a los resultados de los modelos planteados)(ver 0.13.0)
 Instalación:
-pip install eli5
+pip install eli5=0.13.0
 
 pdp box (para graficar los resultados de los SHAP Values)(ver 0.2.1)
 Instalación:
-conda install -c conda-forge pdpbox
+conda install -c conda-forge pdpbox=0.2.1
